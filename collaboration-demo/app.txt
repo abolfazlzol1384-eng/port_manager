@@ -1,2 +1,9 @@
 Collaboration Demo Project
 Version 1.0
+Moved business logic to services
+
+Cleaned up controllers
+
+Centralized config management
+
+Improved error handling
